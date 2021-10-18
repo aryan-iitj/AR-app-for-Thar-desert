@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="raj4" size="6.000000 5.796000" />
+    <ImageTarget name="Final_map" size="6.000000 3.985075" />
+    <ImageTarget name="12" size="6.000000 3.911392" />
+    <ImageTarget name="map" size="6.000000 4.928571" />
+    <ImageTarget name="img" size="6.000000 8.744056" />
+    <ImageTarget name="targetimg" size="6.000000 8.000000" />
+  </Tracking>
+</QCARConfig>
